@@ -1,6 +1,6 @@
 os: osx
 language: node_js
 node_js:
-  - "lts/*"
+  - 11
 
 script: node --version
