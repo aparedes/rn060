@@ -1,5 +1,5 @@
 os: osx
 
 script: 
-  - nvm lts
+  - nvm install lts
   - node --version
